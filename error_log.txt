@@ -1,0 +1,18 @@
+2018-12-29 21:33:42+09 MacBook-4 storeassetd[616]: Query for available updates: FINISHED
+2018-12-29 21:39:14+09 MacBook-4 softwareupdated[593]: BackgroundActivity: Starting Background Check Activity
+2018-12-29 21:39:14+09 MacBook-4 softwareupdated[593]: BackgroundActions: Automatic check parameters: autoDownload=YES, autoConfigData=YES, autoCriticalInstall=YES
+2018-12-29 21:39:14+09 MacBook-4 softwareupdated[593]: SoftwareUpdate: Fired early. Next check=2018/12/30 7:27 (interval=86280.000000, A/C=YES)
+2018-12-29 21:39:14+09 MacBook-4 softwareupdated[593]: BackgroundActivity: Finished Background Check Activity
+2018-12-29 21:39:14+09 MacBook-4 softwareupdate_notify_agent[583]: Handling notification event: UpdatesAvailable
+2018-12-29 21:39:14+09 MacBook-4 softwareupdate_notify_agent[583]: AssertionMgr: Take com.apple.softwareupdate.NotifyAgentAssertion-UpdatesAvailable assertion with type BackgroundTask for pid 583, id 0x8280
+2018-12-29 21:39:14+09 MacBook-4 softwareupdate_notify_agent[583]: Waiting 5 seconds before sending the notification to App Store
+2018-12-29 21:39:19+09 MacBook-4 softwareupdate_notify_agent[583]: Notifying with params: {
+2018-12-29 21:39:19+09 MacBook-4 softwareupdate_notify_agent[583]: appstoreupdateagent notified
+2018-12-29 21:39:19+09 MacBook-4 softwareupdate_notify_agent[583]: AssertionMgr: Cancel com.apple.softwareupdate.NotifyAgentAssertion-UpdatesAvailable assertion for pid 583, id 0x8280
+2018-12-29 21:39:20+09 MacBook-4 softwareupdated[593]: Adding client SUUpdateServiceClient pid=616, uid=501, installAuth=NO rights=(), transactions=0 (/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeassetd)
+2018-12-29 21:39:37+09 MacBook-4 installd[757]: installd: Starting
+2018-12-29 21:39:37+09 MacBook-4 installd[757]: installd: uid=0, euid=0
+2018-12-29 21:39:37+09 MacBook-4 system_installd[758]: installd: Starting
+2018-12-29 21:39:37+09 MacBook-4 system_installd[758]: installd: uid=0, euid=0
+2018-12-29 21:39:37+09 MacBook-4 system_installd[758]: PackageKit: Install sandbox purging reclaimed Zero KB
+2018-12-29 23:21:32+09 MacBook-4 system_installd[758]: PackageKit: Install sandbox purging reclaimed Zero KB
